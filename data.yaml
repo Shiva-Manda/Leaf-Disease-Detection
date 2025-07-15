@@ -1,0 +1,14 @@
+train:/split/train/images
+val: /split/val/images
+
+nc: 8
+
+names:
+  - Tomato early blight
+  - Tomato healthy
+  - Tomato bacterial spot
+  - Tomato late blight
+  - Tomato mosaic virus
+  - Tomato yellow virus
+  - Tomato mold
+  - Tomato septoria leaf spot
